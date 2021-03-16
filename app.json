@@ -5,7 +5,7 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "repository": "https://github.com/virtualcoder",
   "success_url": "https://t.me/youtubdlbot",
   "website": "https://github.com/virtualcoder",
   "env": {
